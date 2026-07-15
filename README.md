@@ -1,5 +1,5 @@
 # Netflix Content Analysis | Python, PostgreSQL, SQL & Power BI
-
+![Netflix Dashboard](images/dashboard_preview.png)
 ## Project Overview
 
 This project presents an end-to-end data analysis of the Netflix catalog dataset using Python, PostgreSQL, SQL, and Power BI.
